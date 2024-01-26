@@ -3,9 +3,12 @@ layout: homepage
 ---
 
 ## About Me
-
-As a master's student of Computer Science at Zhejiang University, I am currently being advised by Professor [Xiaowei Zhou](http://xzhou.me/) and closely collaborating with [Sida Peng](https://pengsida.net/). Prior to this, I received my bachelor's degree from the same university in 2022. My research focuses on 3D/4D reconstruction and editing.
-
+I am a Master’s student at Zhejiang University, School of Computer Science and Technology. Currently, I am
+under the guidance of Prof.[Xiaowei Zhou](http://xzhou.me/) and closely collaborating with Prof. [Sida Peng](https://pengsida.net/). Before that, I received
+my Bachelor’s degree from Zhejiang University. I ranked 3rd out of 97 students in my undergraduate program
+with a GPA of 90.33/100. My research interests are focused on the field of computer vision, particularly in
+3D/4D reconstruction and generation, as well as video tracking and editing. Currently, I am interning at Ant
+Group, hosted by [Yujun Shen](https://shenyujun.github.io/).
 
 {% include_relative _includes/publications.md %}
 
