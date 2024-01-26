@@ -39,7 +39,6 @@
   <div class="title"><a href="https://arxiv.org/pdf/2309.10815.pdf">PanopticNeRF-360: Panoramic 3D-to-2D Label Transfer in Urban Scenes</a></div>
   <div class="author">Xiao Fu, <strong>Shangzhan Zhang</strong>, Tianrun Chen, Yichong Lu,
 Xiaowei Zhou, Andreas Geiger, Yiyi Liao</div>
-  <div class="periodical"><em> 2023.</em></div>
   <div class="links">
     <a href="https://arxiv.org/pdf/2309.10815.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     <a href="https://fuxiao0719.github.io/projects/panopticnerf360/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
