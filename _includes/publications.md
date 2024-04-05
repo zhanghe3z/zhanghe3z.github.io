@@ -16,7 +16,8 @@
     <div class="title"><a href="">SpatialTracker: Tracking Any 2D Pixels in 3D Space</a>
 </div>
     <div class="author">Yuxi Xiao*, Qianqian Wang*, <strong>Shangzhan Zhang</strong>, Nan Xue, Sida Peng, Yujun Shen, Xiaowei Zhou</div>
-    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR), highlight</strong>, 2024.</em></div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
+    <div class="periodical"><em><strong>Highlight</strong></em></div>
     <div class="links">
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
@@ -37,7 +38,8 @@
     <div class="title"><a href="">Sketch in VR, Make it Real: Rapid 3D Model Generation using VR 3D Sketching</a>
 </div>
     <div class="author">Tianrun Chen*, Chaotao Ding*, <strong>Shangzhan Zhang*</strong>, Chunan Yu, Ying Zang, Zejian Li, Sida Peng, Lingyun Sun </div>
-    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR),  highlight</strong>, 2024.</em></div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
+    <div class="periodical"><em><strong>Highlight</strong></em></div>
     <div class="links">
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
