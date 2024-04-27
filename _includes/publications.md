@@ -19,7 +19,8 @@
     <div class="author"><strong>Shangzhan Zhang</strong>, Sida Peng, Tao Xu, Yuanbo Yang, Tianrun Chen, Nan Xue, Yujun Shen, Hujun Bao, Ruizhen Hu, Xiaowei Zhou</div>
     <div class="periodical"><em>ACM Special Interest Group on Computer Graphics <strong>(SIGGRAPH)</strong>, 2024.</em></div>
     <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/zhanghe3z/MaPa/releases/download/paper/2024_SIGGRAPH_PaintMat_arxiv.6.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://zhanghe3z.github.io/MaPa/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
     </div>
   </div>
 </div>
