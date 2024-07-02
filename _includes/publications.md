@@ -4,6 +4,26 @@
 <div class="publications">
 <ol class="bibliography">
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teff.gif" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">SIGGRAPH</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Learning 3D-Aware GANs from Unposed Images with Template Feature Field</a>
+</div>
+    <div class="author">Xinya Chen, Hanlei Guo, Yanrui Bin, <strong>Shangzhan Zhang</strong>, Yuanbo Yang, Yue Wang, Yujun Shen, Yiyi Liao</div>
+    <div class="periodical"><em>European Conference on Computer Vision<strong>ECCV</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2404.05705" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://xdimlab.github.io/TeFF/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
