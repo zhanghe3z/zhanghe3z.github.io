@@ -31,6 +31,28 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/urban_cad.gif" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Under Review</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">UrbanCAD: Towards Highly Controllable and Photorealistic 3D Vehicles for Urban Scene Simulation</a>
+</div>
+    <div class="author">Yichong Lu, Yichi Cai,  <strong>Shangzhan Zhang</strong>, Hongyu Zhou, Haoji Hu, Huimin Yu, Andreas Geiger, Yiyi Liao</div>
+    <div class="periodical"><em>arXiv</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2411.19292" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://xdimlab.github.io/UrbanCAD/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/teff.gif" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ECCV</abbr>
   </div>
