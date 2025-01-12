@@ -41,7 +41,7 @@
     <div class="author">Yichong Lu, Yichi Cai,  <strong>Shangzhan Zhang</strong>, Hongyu Zhou, Haoji Hu, Huimin Yu, Andreas Geiger, Yiyi Liao</div>
     <div class="periodical"><em>arXiv</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2411.19292" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://arxiv.org/pdf/2411.19292" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://xdimlab.github.io/UrbanCAD/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
     </div>
   </div>
