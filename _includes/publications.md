@@ -10,14 +10,14 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/flare.gif" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Under Review</abbr>
+    <abbr class="badge">CVPR</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">Flare: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views</a>
 </div>
     <div class="author"> <strong>Shangzhan Zhang</strong>, Jianyuan Wang, Yinghao Xu, Nan Xue, Christian Rupprecht, Xiaowei Zhou, Yujun Shen, Gordon Wetzstein</div>
-    <div class="periodical"><em>Under Review</em></div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.</em></div>
     <div class="links">
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://zhanghe3z.github.io/FLARE/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
@@ -32,14 +32,14 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/urbancad.gif" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">CVPR</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">UrbanCAD: Towards Highly Controllable and Photorealistic 3D Vehicles for Urban Scene Simulation</a>
 </div>
     <div class="author">Yichong Lu, Yichi Cai,  <strong>Shangzhan Zhang</strong>, Hongyu Zhou, Haoji Hu, Huimin Yu, Andreas Geiger, Yiyi Liao</div>
-    <div class="periodical"><em>arXiv</em></div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2411.19292" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://xdimlab.github.io/UrbanCAD/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
