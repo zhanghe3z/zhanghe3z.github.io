@@ -49,26 +49,7 @@
 </li>
 
 
-<li>
-<div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teff.gif" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ECCV</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Learning 3D-Aware GANs from Unposed Images with Template Feature Field</a>
-</div>
-    <div class="author">Xinya Chen, Hanlei Guo, Yanrui Bin, <strong>Shangzan Zhang</strong>, Yuanbo Yang, Yue Wang, Yujun Shen, Yiyi Liao</div>
-    <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2404.05705" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://xdimlab.github.io/TeFF/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-    </div>
-  </div>
-</div>
-</li>
 
 <li>
 <div class="pub-row">
@@ -91,27 +72,7 @@
 </div>
 </li>
 
-<li>
-<div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/tracker.gif" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">SpatialTracker: Tracking Any 2D Pixels in 3D Space</a>
-</div>
-    <div class="author">Yuxi Xiao*, Qianqian Wang*, <strong>Shangzan Zhang</strong>, Nan Xue, Sida Peng, Yujun Shen, Xiaowei Zhou</div>
-    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
-    <div class="periodical"><em><strong>Highlight</strong></em></div>
-    <div class="links">
-      <a href="https://henry123-boy.github.io/SpaTracker/SpatialTracker_files/pdf/spatracker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-        <a href="https://henry123-boy.github.io/SpaTracker/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-    </div>
-  </div>
-</div>
-</li>
 
 
 <li>
@@ -128,10 +89,6 @@
     <div class="author">Tianrun Chen*, Chaotao Ding*, <strong>Shangzan Zhang*</strong>, Chunan Yu, Ying Zang, Zejian Li, Sida Peng, Lingyun Sun </div>
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
     <div class="periodical"><em><strong>Highlight</strong></em></div>
-
-    <div class="links">
-      <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Rapid_3D_Model_Generation_with_Intuitive_3D_Input_CVPR_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
   </div>
 </div>
 </li>
@@ -180,30 +137,6 @@
 </div>
 </li>
 
-
-<li>
-
-<div class="pub-row">
-
-<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-  <img src="assets/img/3dv2022.gif" class="teaser img-fluid z-depth-1">
-  <abbr class="badge">3DV</abbr>
-</div>
-
-<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-  <div class="title"><a href="https://www.cvlibs.net/publications/Fu2022THREEDV.pdf">Panoptic NeRF: 3D-to-2D Label Transfer for Panoptic Urban Scene Segmentation
-</a></div>
-  <div class="author">Xiao Fu*, <strong>Shangzan Zhang*</strong>, Tianrun Chen, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao</div>
-  <div class="periodical"><em>International Conference on 3D Vision  <strong>(3DV)</strong>, 2022.</em></div>
-  <div class="links">
-    <a href="https://arxiv.org/pdf/2203.15224.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    <a href="https://fuxiao0719.github.io/projects/panopticnerf/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-    <a href="https://github.com/fuxiao0719/panopticnerf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-  
-</li>
 
 
   
