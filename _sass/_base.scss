@@ -305,6 +305,36 @@ ul.task-list input[type="checkbox"] {
     }
   }
 
+.nav-icons-group {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0;
+
+    .nav-icon-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0.25rem;
+      font-size: 1.3rem;
+      color: var(--global-text-color);
+      background: transparent;
+      border: none;
+      cursor: pointer;
+      transition: color 0.2s ease;
+
+      &:hover {
+        color: var(--global-hover-color);
+        text-decoration: none;
+      }
+
+      i {
+        display: block;
+        line-height: 1;
+      }
+    }
+  }
+
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;

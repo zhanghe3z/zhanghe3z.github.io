@@ -47,6 +47,7 @@
           {% endfor %}
 
           <!-- About -->
+          {% comment %}
           <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
               {{- about_title }}
@@ -117,12 +118,19 @@
               {% endif %}
             {% endif %}
           {% endfor %}
-          {% if site.search_enabled %}
-            <!-- Search -->
-            <li class="nav-item">
-              <button id="search-toggle" title="Search" onclick="openSearchModal()">
-                <span class="nav-link">ctrl k <i class="ti ti-search"></i></span>
-              </button>
+          {% endcomment %}
+          {% if site.search_enabled or (site.data.socials and site.data.socials.email) %}
+            <li class="nav-item nav-icons-group">
+              {% if site.data.socials and site.data.socials.email %}
+                <a class="nav-icon-link" href="mailto:{{ site.data.socials.email }}" title="Email">
+                  <i class="fas fa-envelope"></i>
+                </a>
+              {% endif %}
+              {% if site.search_enabled %}
+                <button id="search-toggle" class="nav-icon-link" title="Search (Ctrl+K)" onclick="openSearchModal()">
+                  <i class="ti ti-search"></i>
+                </button>
+              {% endif %}
             </li>
           {% endif %}
           {% if site.enable_darkmode %}
