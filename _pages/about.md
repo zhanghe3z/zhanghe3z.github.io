@@ -3,6 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle:
+description: Shangzhan Zhang - PhD student at Oxford VGG researching generative models, 3D vision, and model-based reinforcement learning
+keywords: Shangzhan Zhang, Oxford VGG, computer vision, generative models, 3D vision, reinforcement learning, deep learning, AI research
 
 profile:
   align: right
