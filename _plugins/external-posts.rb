@@ -23,10 +23,14 @@ module ExternalPosts
     end
 
     def fetch_from_rss(site, src)
-      xml = HTTParty.get(src['rss_url']).body
-      return if xml.nil?
-      feed = Feedjira.parse(xml)
-      process_entries(site, src, feed.entries)
+      begin
+        xml = HTTParty.get(src['rss_url']).body
+        return if xml.nil?
+        feed = Feedjira.parse(xml)
+        process_entries(site, src, feed.entries)
+      rescue StandardError => e
+        puts "Error fetching RSS from #{src['rss_url']}: #{e.message}"
+      end
     end
 
     def process_entries(site, src, entries)
@@ -70,6 +74,7 @@ module ExternalPosts
       src['posts'].each do |post|
         puts "...fetching #{post['url']}"
         content = fetch_content_from_url(post['url'])
+        next if content.nil?
         content[:published] = parse_published_date(post['published_date'])
         create_document(site, src['name'], post['url'], content)
       end
@@ -87,7 +92,12 @@ module ExternalPosts
     end
 
     def fetch_content_from_url(url)
-      html = HTTParty.get(url).body
+      begin
+        html = HTTParty.get(url).body
+      rescue StandardError => e
+        puts "Error fetching content from #{url}: #{e.message}"
+        return nil
+      end
       parsed_html = Nokogiri::HTML(html)
 
       title = parsed_html.at('head title')&.text.strip || ''
