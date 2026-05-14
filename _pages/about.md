@@ -26,9 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year PhD student at <a href="https://www.robots.ox.ac.uk/~vgg/" target="_blank">Oxford VGG</a>, advised by Prof. <a href="https://chrirupp.github.io/" target="_blank">Christian Rupprecht</a>, funded by <a href="https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/scholarships-a-z-listing" target="_blank">Oxford-DeepMind Graduate Scholarship</a>.
-
-My research interests lie in generative models, multimodal models, and 3D foundation models. I’d really appreciate the chance to exchange ideas with anyone who shares similar interests!
+I am a first-year PhD student at <a href="https://www.robots.ox.ac.uk/~vgg/" target="_blank">Oxford VGG</a>, advised by Prof. <a href="https://chrirupp.github.io/" target="_blank">Christian Rupprecht</a>, funded by <a href="https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/scholarships-a-z-listing" target="_blank">Oxford-DeepMind Graduate Scholarship</a>. My research interests lie in generative models, multimodal models, and 3D foundation models. I’d really appreciate the chance to exchange ideas with anyone who shares similar interests!
 
 <style>
 .exp-section { margin-top: 2.5rem; }
