@@ -148,7 +148,7 @@ My research interests lie in generative models, multimodal learning, and 3D foun
     <img class="timeline-logo" src="{{ '/assets/img/logos/ant.png' | relative_url }}" alt="Ant Research" onerror="this.style.display='none'">
     <div class="timeline-info">
       <h3><a href="https://www.antgroup.com/en" target="_blank">Ant Research</a></h3>
-      <p class="timeline-role">Research Intern, mentored by Dr. Nan Xue</p>
+      <p class="timeline-role">Research Intern, mentored by Dr. Nan Xue and Dr. Yujun Shen</p>
     </div>
     <span class="timeline-period">2023 &mdash; 2025</span>
   </div>
