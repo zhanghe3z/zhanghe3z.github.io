@@ -149,19 +149,19 @@ I am a first-year PhD student at <a href="https://www.robots.ox.ac.uk/~vgg/" tar
   <div class="exp-col-title">Experience</div>
 
   <div class="timeline-item">
-    <img class="timeline-logo" src="{{ '/assets/img/logos/adobe.png' | relative_url }}" alt="Adobe Research" onerror="this.style.display='none'">
+    <img class="timeline-logo" src="{{ '/assets/img/logos/ant.png' | relative_url }}" alt="Ant Research" onerror="this.style.display='none'">
     <div class="timeline-info">
-      <h3><a href="https://research.adobe.com/" target="_blank">Adobe Research</a></h3>
-      <p class="timeline-role">Research Intern, mentored by Zifan Shi and Kalyan Sunkavalli</p>
+      <h3><a href="https://www.antgroup.com/en" target="_blank">Ant Research</a></h3>
+      <p class="timeline-role">Research Intern, mentored by Dr. <a href="https://justimyhxu.github.io/" target="_blank">Yinghao Xu</a></p>
     </div>
     <span class="timeline-period">2025</span>
   </div>
 
   <div class="timeline-item">
-    <img class="timeline-logo" src="{{ '/assets/img/logos/ant.png' | relative_url }}" alt="Ant Research" onerror="this.style.display='none'">
+    <img class="timeline-logo" src="{{ '/assets/img/logos/adobe.png' | relative_url }}" alt="Adobe Research" onerror="this.style.display='none'">
     <div class="timeline-info">
-      <h3><a href="https://www.antgroup.com/en" target="_blank">Ant Research</a></h3>
-      <p class="timeline-role">Research Intern, mentored by Dr. <a href="https://justimyhxu.github.io/" target="_blank">Yinghao Xu</a></p>
+      <h3><a href="https://research.adobe.com/" target="_blank">Adobe Research</a></h3>
+      <p class="timeline-role">Research Intern, mentored by Zifan Shi and Kalyan Sunkavalli</p>
     </div>
     <span class="timeline-period">2025</span>
   </div>
