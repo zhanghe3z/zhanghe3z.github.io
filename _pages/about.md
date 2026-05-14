@@ -116,7 +116,7 @@ My research interests lie in generative models, multimodal models, and 3D founda
     <img class="timeline-logo" src="{{ '/assets/img/logos/zju.png' | relative_url }}" alt="ZJU" onerror="this.style.display='none'">
     <div class="timeline-info">
       <h3><a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a></h3>
-      <p class="timeline-role">M.Eng. in Computer Science</p>
+      <p class="timeline-role">M.Eng. in Computer Science, advised by Prof. Sida Peng and Prof. Xiaowei Zhou</p>
     </div>
     <span class="timeline-period">2022 &mdash; 2025</span>
   </div>
@@ -125,7 +125,7 @@ My research interests lie in generative models, multimodal models, and 3D founda
     <img class="timeline-logo" src="{{ '/assets/img/logos/zju.png' | relative_url }}" alt="ZJU" onerror="this.style.display='none'">
     <div class="timeline-info">
       <h3><a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a></h3>
-      <p class="timeline-role">B.E. in Computer Science</p>
+      <p class="timeline-role">B.E. in Electronic Science and Technology</p>
     </div>
     <span class="timeline-period">2018 &mdash; 2022</span>
   </div>
