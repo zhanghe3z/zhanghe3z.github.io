@@ -154,7 +154,7 @@ I am a first-year PhD student at <a href="https://www.robots.ox.ac.uk/~vgg/" tar
       <h3><a href="https://research.adobe.com/" target="_blank">Adobe Research</a></h3>
       <p class="timeline-role">Research Intern, mentored by Zifan Shi and Kalyan Sunkavalli</p>
     </div>
-    <span class="timeline-period">May &mdash; Oct 2025</span>
+    <span class="timeline-period">May 2025 &ndash; Oct 2025</span>
   </div>
 
   <div class="timeline-item">
