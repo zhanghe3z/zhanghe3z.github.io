@@ -30,7 +30,7 @@ I am a first-year PhD student at <a href="https://www.robots.ox.ac.uk/~vgg/" tar
 
 Previously, I was a research intern at <a href="https://www.antgroup.com/en" target="_blank">Ant Research</a>, where I was fortunate to be mentored by Dr. <a href="https://xuenan.net/" target="_blank">Nan Xue</a> and receive research guidance from Prof. <a href="https://justimyhxu.github.io/" target="_blank">Yinghao Xu</a> and Dr. <a href="https://shenyujun.github.io/" target="_blank">Yujun Shen</a>. During summer, I had the privilege to collaborate with Dr. <a href="https://justimyhxu.github.io/" target="_blank">Yinghao Xu</a> and Prof. <a href="https://stanford.edu/~gordonwz/" target="_blank">Gordon Wetzstein</a> from Stanford University. I got my M.Eng in Computer Science from <a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a> in 2025, where I was privileged to work closely with Prof. <a href="https://pengsida.net/" target="_blank">Sida Peng</a> and Prof. <a href="https://xzhou.me/" target="_blank">Xiaowei Zhou</a>.
 
-My research interests lie in generative models, multimodal learning, and 3D foundation models. I’d really appreciate the chance to exchange ideas with anyone who shares similar interests!
+My research interests lie in generative models, multimodal models, and 3D foundation models. I’d really appreciate the chance to exchange ideas with anyone who shares similar interests!
 
 <style>
 .exp-section { margin-top: 2.5rem; }
@@ -119,6 +119,15 @@ My research interests lie in generative models, multimodal learning, and 3D foun
       <p class="timeline-role">M.Eng. in Computer Science</p>
     </div>
     <span class="timeline-period">2022 &mdash; 2025</span>
+  </div>
+
+  <div class="timeline-item">
+    <img class="timeline-logo" src="{{ '/assets/img/logos/zju.png' | relative_url }}" alt="ZJU" onerror="this.style.display='none'">
+    <div class="timeline-info">
+      <h3><a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a></h3>
+      <p class="timeline-role">B.E. in Computer Science</p>
+    </div>
+    <span class="timeline-period">2018 &mdash; 2022</span>
   </div>
 
 </div>
