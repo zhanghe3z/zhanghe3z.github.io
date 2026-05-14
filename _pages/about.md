@@ -51,8 +51,8 @@ My research interests lie in generative models, multimodal models, and 3D founda
 .timeline-item {
   display: flex;
   align-items: center;
-  gap: 18px;
-  padding: 16px 0;
+  gap: 14px;
+  padding: 14px 0;
   border-bottom: 1px solid var(--global-divider-color);
 }
 .timeline-item:last-child { border-bottom: none; }
@@ -62,22 +62,39 @@ My research interests lie in generative models, multimodal models, and 3D founda
   object-fit: contain;
   opacity: 0.5;
   transition: opacity 0.2s ease;
-  flex-shrink: 0;
+  flex: 0 0 40px;
 }
 .timeline-item:hover .timeline-logo { opacity: 1; }
-.timeline-info { flex: 1; min-width: 0; }
+.timeline-info { flex: 1 1 auto; min-width: 0; }
 .timeline-info h3 {
-  font-size: 1.05rem;
+  font-size: 1.02rem;
   font-weight: 500;
-  margin: 0 0 2px 0;
+  margin: 0 0 2px 0 !important;
+  line-height: 1.3;
   color: var(--global-text-color);
   transition: color 0.2s ease;
 }
 .timeline-item:hover .timeline-info h3 { color: var(--global-theme-color); }
 .timeline-info h3 a { color: inherit; text-decoration: none; }
 .timeline-info h3 a:hover { color: var(--global-theme-color); }
-.timeline-role { font-size: 0.85rem; color: var(--global-text-color-light); margin: 0; }
-.timeline-period { font-size: 0.85rem; color: var(--global-text-color-light); font-weight: 500; }
+.timeline-role {
+  font-size: 0.82rem;
+  line-height: 1.35;
+  color: var(--global-text-color-light);
+  margin: 0 !important;
+}
+.timeline-period {
+  flex: 0 0 auto;
+  align-self: center;
+  text-align: right;
+  white-space: nowrap;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--global-text-color-light);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.01em;
+  min-width: 88px;
+}
 .remote-tag {
   display: inline-block;
   font-size: 0.65rem;
