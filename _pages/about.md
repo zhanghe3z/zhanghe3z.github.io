@@ -161,7 +161,7 @@ I am a first-year PhD student at <a href="https://www.robots.ox.ac.uk/~vgg/" tar
     <img class="timeline-logo" src="{{ '/assets/img/logos/adobe.png' | relative_url }}" alt="Adobe Research" onerror="this.style.display='none'">
     <div class="timeline-info">
       <h3><a href="https://research.adobe.com/" target="_blank">Adobe Research</a></h3>
-      <p class="timeline-role">Research Intern, mentored by Zifan Shi and Kalyan Sunkavalli</p>
+      <p class="timeline-role">Research Intern, mentored by Dr. Zifan Shi and Dr. Kalyan Sunkavalli</p>
     </div>
     <span class="timeline-period">2025</span>
   </div>
