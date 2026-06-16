@@ -129,7 +129,7 @@ I am a first-year PhD student at <a href="https://www.robots.ox.ac.uk/~vgg/" tar
     <img class="timeline-logo" src="{{ '/assets/img/logos/zju.png' | relative_url }}" alt="ZJU" onerror="this.style.display='none'">
     <div class="timeline-info">
       <h3><a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a></h3>
-      <p class="timeline-role">M.Eng. in Computer Science</p>
+      <p class="timeline-role">M.Eng. in Computer Science, advised by Prof. Sida Peng and Prof. Xiaowei Zhou</p>
     </div>
     <span class="timeline-period">2022 &mdash; 2025</span>
   </div>
@@ -153,6 +153,15 @@ I am a first-year PhD student at <a href="https://www.robots.ox.ac.uk/~vgg/" tar
     <div class="timeline-info">
       <h3><a href="https://research.adobe.com/" target="_blank">Adobe Research</a></h3>
       <p class="timeline-role">Research Intern, mentored by Dr. Zifan Shi and Dr. Kalyan Sunkavalli</p>
+    </div>
+    <span class="timeline-period">2025</span>
+  </div>
+
+  <div class="timeline-item">
+    <img class="timeline-logo" src="{{ '/assets/img/logos/ant.png' | relative_url }}" alt="Ant Research" onerror="this.style.display='none'">
+    <div class="timeline-info">
+      <h3><a href="https://www.antgroup.com/en" target="_blank">Ant Research</a></h3>
+      <p class="timeline-role">Research Intern, mentored by Dr. Yinghao Xu</p>
     </div>
     <span class="timeline-period">2025</span>
   </div>
