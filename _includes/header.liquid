@@ -119,6 +119,19 @@
               {% endif %}
             {% endfor %}
           {% endcomment %}
+          {% if site.data.socials.scholar_userid %}
+            <li class="nav-item">
+              <a
+                class="nav-link"
+                href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}"
+                title="Google Scholar"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar
+              </a>
+            </li>
+          {% endif %}
           {% if site.search_enabled or (site.data.socials and site.data.socials.email) %}
             <li class="nav-item nav-icons-group">
               {% if site.data.socials and site.data.socials.email %}
