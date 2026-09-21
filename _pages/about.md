@@ -146,7 +146,7 @@ I am a second-year PhD student at <a href="https://www.robots.ox.ac.uk/~vgg/" ta
       <div>
         <h3 class="work-title"><a href="https://arxiv.org/abs/2604.14141">Geometric Context Transformer for Streaming 3D Reconstruction</a></h3>
         <p class="work-authors">Lin-Zhuo Chen*, Jian Gao*, <strong>Shangzhan Zhang*</strong>, Yihang Chen, Nan Xue, Jianyuan Wang, Christian Rupprecht, Xun Cao, Xing Zhu, Yujun Shen, Yao Yao, Yinghao Xu</p>
-        <p class="work-venue">ECCV 2026 · <strong class="work-highlight">Best Paper Candidate · Oral</strong></p>
+        <p class="work-venue">ECCV 2026 · <strong class="work-highlight">Best Paper Candidate</strong></p>
         <p class="work-summary">Reconstructing 3D scenes from streaming video with a geometric context transformer that maintains spatial consistency over long sequences.</p>
         <div class="work-links" aria-label="Geometric Context Transformer resources">
           <a href="https://technology.robbyant.com/lingbot-map">Project</a>
@@ -160,7 +160,7 @@ I am a second-year PhD student at <a href="https://www.robots.ox.ac.uk/~vgg/" ta
       <div>
         <h3 class="work-title"><a href="https://vggt-omega.github.io/">VGGT-Ω</a></h3>
         <p class="work-authors">Jianyuan Wang, Minghao Chen, <strong>Shangzhan Zhang</strong>, Nikita Karaev, Johannes Schönberger, Patrick Labatut, Piotr Bojanowski, David Novotny, Andrea Vedaldi, Christian Rupprecht</p>
-        <p class="work-venue">CVPR 2026 · <span class="work-highlight">Best Paper Finalist · Oral</span></p>
+        <p class="work-venue">CVPR 2026 · <span class="work-highlight">Best Paper Finalist</span></p>
         <p class="work-summary">Scaling feed-forward 3D reconstruction to learn spatial representations that also support language alignment and vision-language-action models.</p>
         <div class="work-links" aria-label="VGGT-Ω resources">
           <a href="https://vggt-omega.github.io/">Project</a>
