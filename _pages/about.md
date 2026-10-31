@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle:
-description: Shangzhan Zhang - PhD student at Oxford VGG interested in agents, VLMs, and physical foundation models
-keywords: Shangzhan Zhang, Oxford VGG, agents, VLMs, physical foundation models, computer vision, generative models, deep learning
+description: Shangzhan Zhang - PhD student at Oxford VGG interested in agents, VLMs, and 3D foundation models
+keywords: Shangzhan Zhang, Oxford VGG, agents, VLMs, 3D foundation models, computer vision, generative models, deep learning
 
 profile:
   align: right
@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year PhD student at <a href="https://www.robots.ox.ac.uk/~vgg/" target="_blank">Oxford VGG</a>, advised by Prof. <a href="https://chrirupp.github.io/" target="_blank">Christian Rupprecht</a>, funded by <a href="https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/scholarships-a-z-listing" target="_blank">Oxford-DeepMind Graduate Scholarship</a>. My research interests lie in **agents**, **VLMs**, and **physical foundation models**. I’d love to exchange ideas with others who share similar interests
+I am a second-year PhD student at <a href="https://www.robots.ox.ac.uk/~vgg/" target="_blank">Oxford VGG</a>, advised by Prof. <a href="https://chrirupp.github.io/" target="_blank">Christian Rupprecht</a>, funded by <a href="https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/scholarships-a-z-listing" target="_blank">Oxford-DeepMind Graduate Scholarship</a>. My research interests lie in **agents**, **VLMs**, and **3D foundation models**. I’d love to exchange ideas with others who share similar interests
 
 <style>
 .selected-work { margin: 2.5rem 0; }
